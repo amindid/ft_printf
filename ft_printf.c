@@ -6,7 +6,7 @@
 /*   By: aouchaad <aouchaad@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/21 17:09:51 by aouchaad          #+#    #+#             */
-/*   Updated: 2022/11/29 22:36:40 by aouchaad         ###   ########.fr       */
+/*   Updated: 2023/01/15 23:53:29 by aouchaad         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -61,16 +61,3 @@ int	ft_printf(const char *str, ...)
 	}
 	return (count);
 }
-// int main ()
-// {
-//     //int *p;
-//     int d = -1;
-// 	int c = 1;
-//    // printf("%d\n", addnum(4,2,'c',2,2));
-//     // printf("%X\n",p);
-//     // printf("%i\n",p);
-// 	ft_printf("%x\n",d);
-//     printf("%x\n",d);
-// 	ft_printf("%x\n",c);
-//     printf("%x",c);
-// }
